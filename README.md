@@ -1,2 +1,2 @@
 # Student-Grade-Calculator
-This project is about the Student Grade Calculator, calculates total marks, percentage, grade and displays result.
+This project is about the Student Grade Calculator. Calculates total marks, percentage, grade and displays result.
